@@ -1,0 +1,12 @@
+p /* Liens par défaut (non survolés) */
+{
+   text-decoration: none;
+   color: red;
+   font-style: italic;
+}
+
+p:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: green;
+}
